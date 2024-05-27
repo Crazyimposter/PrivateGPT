@@ -1,0 +1,14 @@
+langchain
+streamlit
+transformers
+torch
+accelerate
+pdfminer.six
+bs4
+sentence_transformers
+six
+torchvision
+streamlit-chat
+langchain-community
+faiss
+os
